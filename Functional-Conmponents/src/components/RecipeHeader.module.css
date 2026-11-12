@@ -1,0 +1,17 @@
+.header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.title {
+  color: #073b6c;
+  margin-bottom: 15px;
+}
+
+.photo {
+  width: 100%;
+  max-width: 500px;
+  height: 280px;
+  object-fit: cover;
+  border-radius: 10px;
+}
